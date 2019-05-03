@@ -129,3 +129,4 @@ vi trabalho_shell.txt
  * echo " Obrigada, volte sempre"
  * echo " Bank shell"  '''
 ```
+Equipe: Ana Carolina Knop - Daniely Bremem da Costa - Isabela dos Santos
